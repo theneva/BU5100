@@ -1,0 +1,23 @@
+freemium
+
+Visjon: ta over verden med videoredigering
+Mål: bli verdensledende på videoredigering for massene
+- plukke barrierene fra hverandre én etter én
+
+AWS
+
+browser- og device-agnostisk, anytime, anywhere
+- bare nettilkobling er interessant
+
+
+
+b2b2c -> nå konsumnerne gjennom partnere (youtube) | skal vokse gjennom partnerskap
+- bred reach gjennom youtube of google drive
+
+b2c: gratisprodukt på youtube og gdrive (5 gigabyte lagring), prosesseringskraft (15 minutter/mnd), 480p
+-> betal for mer av hver (monthly fees)
+
+b2b: selger årlige kontrakter hvor en organisasjon kjøper 1 konto som de deler (terabytenivå), men samme prinsipp (admin-grensesnitt med rettigheter og shit) pluss antall brukere
+
+viktigste driver er at brukerne som kommer inn også blir aktive brukere og trenger mer plass og prosesseringstid
+- bedriftsløsninger kom i januar 2013
